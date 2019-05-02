@@ -1,20 +1,14 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+In this project you'll learn how to customise your Raspberry Pi desktop so that it looks and works the way you want it to. You'll choose colours that work well together and find out how to represent colours so a computer can understand them. You'll also think about how changes can improve the usability of the desktop for you.
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+You will change the way the Raspberry Pi Desktop looks and save the settings.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Here's an example:
 
---- print-only ---
 ![Complete project](images/showcase_static.png)
---- /print-only ---
 
 --- collapse ---
 ---
@@ -22,27 +16,20 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A Raspberry Pi computer
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ Raspian operating system
 
-### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
-
---- collapse ---
 ---
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ How to customise your Raspberry Pi Desktop with images and colours
++ Thinking about which colours work well together and offer enough contrast to be easy to read
++ Understanding different ways of representing colours on a computer
 
 --- /collapse ---
 
