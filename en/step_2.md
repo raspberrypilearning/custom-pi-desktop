@@ -1,25 +1,27 @@
 ## Change the wallpaper
 
-The background wallpaper for the Raspbian desktop is a road heading off into the distance. You don't have to keep this wallpaper, you can change it to one you prefer. You can also change the colour of the text for icons on the desktop so that it contrasts with the wallpaper and is easy to read.
+The background wallpaper for the Raspbian desktop is a temple with a beautiful sunset in the background. You don't have to keep this wallpaper, you can change it to one you prefer. You can also change the colour of the text for icons on the desktop so that it contrasts with the wallpaper and is easy to read.
 
 ![screenshot](images/custom-default.png)
 
 --- task ---
 
-Click on the Raspberry in the top left of your screen to open the Main Menu and then choose Preferences and Appearance Settings. 
+Click on the Raspberry in the top left of your screen to open the Main Menu and then choose `Preferences` and `Appearance Settings`. 
 
 Tip: You can also use the Windows key on your keyboard to open the Main Menu.
 
 ![screenshot](images/custom-menu.png)
 
 This will open the Appearance Settings window.
+
+Tip: You can also right-click on the desktop and choose 'Desktop Preferences' to open the Appearance Settings window.
 --- /task ---
 
 --- task ---
 
-The selected Picture is 'road.jpg'. Click to change this and you will see a choice of images. Choose 'aurora.jpg' and click 'Open' to change the wallpaper. 
+The selected Picture is 'temple.jpg'. Click to change this and you will see a choice of images. Choose 'aurora.jpg' and click 'Open' to change the wallpaper. 
 
-![screenshot](images/custom-wallpaper.png)
+![screenshot](images/custom-aurora.png)
 
 --- /task ---
 
@@ -29,7 +31,7 @@ The new wallpaper will be shown immediately.
 
 --- task ---
 
-Now change the wallpaper to raspberry-pi-logo.png. You'll see that the image is used to fill the whole screen which doesn't work very well.
+Now change the wallpaper to 'raspberry-pi-logo.png'. You'll see that the image is used to fill the whole screen which doesn't work very well.
 
 ![screenshot](images/custom-logo.png)
 
@@ -55,7 +57,7 @@ With the default background color and text settings it's hard to read the icon l
 
 ![screenshot](images/custom-contrast.png)
 
-You can change these settings to get colours with better contrast so that the label text is easier to read. 
+You can change these settings to get background and text colours with better contrast so that the label text is easier to read. 
 
 --- task ---
 
@@ -63,7 +65,7 @@ When using the tiled or centred layouts, it's useful to be able to change the ba
 
 First, select a colour (hue) from the outer ring. Then choose the exact shade using the inner triangle.
 
-![screenshot](images/custom-centre.png)
+![screenshot](images/custom-background-colour.png)
 
 --- /task ---
 
@@ -71,7 +73,7 @@ You'll see that the other ways of entering colours update in when you choose a c
 
 You can also specify colours in the following ways:
 
-- Hue/Saturation/Value: The Hue gives the colour (from 0 to 359) and the Saturation gives the strength of the colour and the Value gives the brightness of the colour. Scratch 3 uses a similar approach to specify colours. 
+- Hue/Saturation/Value: The Hue gives the colour (from 0 to 359) and the Saturation gives the amount of the colour and the Value gives the brightness of the colour. Scratch 3 uses a similar approach to specify colours. 
 - Red/Green/Blue (RGB): Specify the amount of Red, Green and Blue (from 0 to 255) that are mixed to produce the colour. Colours for display on a computer screen are often specified using RGB because each pixel (dot on the screen) combines these three colours to produce the colour you see. 
 - Hex: Hex colour codes start with a # (hash) symbol and then have three pairs of numbers to represent the amount of red, green and blue. The characters use the digits 0-9 then then letters A-F (to represent 10-15). This is called hexadecimal (hex for short.) This means that in two characters you can represent 16 x 16 = 256 different values for each colour. Hex colours are widely used on the web.
 
@@ -85,7 +87,9 @@ Try choosing different colours with the colour picker and see how the different 
 --- task ---
 You may also want to change the Text colour so that it's clearer on your choice of background.
 
-![screenshot](images/custom-text.png)
+The hex colour code for the raspberry colour in the Raspberry Pi logo is '#C51A4A' (a lot of red mixed with a small amount of green and some blue.)
+
+![screenshot](images/custom-text-colour.png)
 
 --- /task ---
 

@@ -1,14 +1,14 @@
-## Change the taskbar
+## Change the taskbar and highlight colour
 
-The Taskbar allows you to access the Main Menu (Raspberry), allows you to open commonly used applications and select currently open applications, allows you to access useful settings and information. 
+The Taskbar allows you to access the Main Menu (Raspberry), open commonly used applications and select currently open applications, and access useful settings and information. 
 
-![screenshot](images/custom-default.png)
+![screenshot](images/custom-taskbar.png)
 
 --- task ---
 
-Open the Appearance Settings dialog from the Preferences section of the Main Menu. Click on the Taskbar tab.
+Open the `Appearance Settings` dialog from the `Preferences` section of the Main Menu. Click on the `Taskbar` tab.
 
-![screenshot](images/custom-taskbar.png)
+![screenshot](images/custom-taskbar-top.png)
 
 This will open the settings for the Taskbar.
 
@@ -20,7 +20,7 @@ By default, the Taskbar is positioned at the top of the screen. If you have used
 
 Change the position to Bottom to move the Taskbar.
 
-![screenshot](images/custom-bottom.png)
+![screenshot](images/custom-taskbar-bottom.png)
 
 The taskbar will move immediately. 
 
@@ -32,13 +32,8 @@ If you've never tried using the Taskbar at the top of the screen then give it a 
 
 You can also change the background and text colours for the Taskbar. 
 
-This time, we'll use the 'Colour name' input to enter hexadecimal colour values. This way of representing colours is commonly used on the web. 
+The hex colour code for white is '#FFFFFF' which means the maximum amount of red, green and blue. Click OK and the Taskbar will update to use the new colour scheme. 
 
-[ingredient??]
-
-The hex colour code for white is '#FFFFFF' which means the maximum amount of red, green and blue. 
-
-The hex colour code for the raspberry colour in the Raspberry Pi logo is '#C51A4A' (a lot of red mixed with a small amount of green and some blue.)
 
 --- task ---
 
@@ -55,8 +50,6 @@ Change the Text Colour to '#FFFFFF' (white).
 ![screenshot](images/custom-taskbar-text.png)
 
 --- /task ---
-
-The Taskbar will immediately update to use the new colour scheme. 
 
 ![screenshot](images/custom-taskbar-updated.png)
 
