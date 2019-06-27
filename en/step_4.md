@@ -2,6 +2,8 @@
 
 The Taskbar allows you to access the Main Menu (Raspberry), open commonly used applications and select currently open applications, and access useful settings and information. 
 
+The default position of the taskbar is at the top of the desktop. 
+
 ![screenshot](images/custom-taskbar.png)
 
 --- task ---
@@ -50,6 +52,4 @@ Change the Text Colour to '#FFFFFF' (white).
 ![screenshot](images/custom-taskbar-text.png)
 
 --- /task ---
-
-![screenshot](images/custom-taskbar-updated.png)
 

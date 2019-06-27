@@ -23,11 +23,9 @@ The selected Picture is 'temple.jpg'. Click to change this and you will see a ch
 
 ![screenshot](images/custom-aurora.png)
 
---- /task ---
-
 The new wallpaper will be shown immediately. 
 
-![screenshot](images/custom-aurora.png)
+--- /task ---
 
 --- task ---
 
