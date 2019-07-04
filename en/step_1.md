@@ -20,7 +20,7 @@ title: What you will need
 
 ### Software
 
-+ Raspian operating system
++ Raspbian operating system
 
 
 ---

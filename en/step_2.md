@@ -32,7 +32,7 @@ The new wallpaper will be shown immediately.
 
 Now change the wallpaper to 'raspberry-pi-logo.png'. You'll see that the image is used to fill the whole screen which doesn't work very well.
 
-![screenshot](images/custom-dialog.png)
+![screenshot](images/custom-logo-dialog.png)
 
 ![screenshot](images/custom-logo.png)
 
