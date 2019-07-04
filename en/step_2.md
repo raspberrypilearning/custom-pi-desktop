@@ -18,18 +18,22 @@ Tip: You can also right-click on the desktop and choose 'Desktop Preferences' to
 --- /task ---
 
 --- task ---
+--- task ---
 
 The selected Picture is 'temple.jpg'. Click to change this and you will see a choice of images. Choose 'aurora.jpg' and click 'Open' to change the wallpaper. 
 
-![screenshot](images/custom-aurora.png)
+![screenshot](images/custom-dialog.png)
 
 The new wallpaper will be shown immediately. 
 
+![screenshot](images/custom-aurora.png)
 --- /task ---
 
 --- task ---
 
 Now change the wallpaper to 'raspberry-pi-logo.png'. You'll see that the image is used to fill the whole screen which doesn't work very well.
+
+![screenshot](images/custom-dialog.png)
 
 ![screenshot](images/custom-logo.png)
 
@@ -37,7 +41,9 @@ Now change the wallpaper to 'raspberry-pi-logo.png'. You'll see that the image i
 
 --- task ---
 
-Change the Layout to 'Tile image' to fill the screen with lots of copies of the logo.
+Change the 'Layout' to 'Tile image' to fill the screen with lots of copies of the logo.
+
+![screenshot](images/custom-tile-dialog.png)
 
 ![screenshot](images/custom-tile.png)
 
@@ -45,7 +51,9 @@ Change the Layout to 'Tile image' to fill the screen with lots of copies of the 
 
 --- task ---
 
-Now change the Layout to 'Centre image on screen' to get just one Raspberry Pi logo in the centre. 
+Now change the 'Layout' to 'Centre image on screen' to get just one Raspberry Pi logo in the centre. 
+
+![screenshot](images/custom-centre-dialog.png)
 
 ![screenshot](images/custom-centre.png)
 
@@ -59,9 +67,13 @@ You can change these settings to get background and text colours with better con
 
 --- task ---
 
-When using the tiled or centred layouts, it's useful to be able to change the background colour. Pick a colour that you think works well with the Raspberry Pi logo. 
+When using the tiled or centred layouts, it's useful to be able to change the background colour. Click on the colour selector to the right of 'Colour'.
+
+Pick a colour that you think works well with the Raspberry Pi logo. 
 
 First, select a colour (hue) from the outer ring. Then choose the exact shade using the inner triangle.
+
+![screenshot](images/custom-background-colour-dialog.png)
 
 ![screenshot](images/custom-background-colour.png)
 
@@ -83,9 +95,11 @@ Try choosing different colours with the colour picker and see how the different 
 --- /task ---
 
 --- task ---
-You may also want to change the Text colour so that it's clearer on your choice of background.
+You may also want to change the 'Text' colour so that it's clearer on your choice of background.
 
 The hex colour code for the raspberry colour in the Raspberry Pi logo is '#C51A4A' (a lot of red mixed with a small amount of green and some blue.)
+
+![screenshot](images/custom-text-dialog.png)
 
 ![screenshot](images/custom-text-colour.png)
 

@@ -10,7 +10,7 @@ The default position of the taskbar is at the top of the desktop.
 
 Open the `Appearance Settings` dialog from the `Preferences` section of the Main Menu. Click on the `Taskbar` tab.
 
-![screenshot](images/custom-taskbar-top.png)
+![screenshot](images/custom-taskbar-top-dialog.png)
 
 This will open the settings for the Taskbar.
 
@@ -22,9 +22,11 @@ By default, the Taskbar is positioned at the top of the screen. If you have used
 
 Change the position to Bottom to move the Taskbar.
 
-![screenshot](images/custom-taskbar-bottom.png)
+![screenshot](images/custom-taskbar-bottom-dialog.png)
 
 The taskbar will move immediately. 
+
+![screenshot](images/custom-taskbar-bottom.png)
 
 You can either leave the Taskbar at the bottom or move it back to the top depending on your preference. 
 
@@ -50,6 +52,8 @@ Open the Taskbar tab of Appearance settings and change the colour to 'C51A4A' (r
 Change the Text Colour to '#FFFFFF' (white).
 
 ![screenshot](images/custom-taskbar-text.png)
+
+Notice that the text in the task bar is now white. 
 
 --- /task ---
 
