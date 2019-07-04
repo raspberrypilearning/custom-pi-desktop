@@ -18,11 +18,10 @@ Tip: You can also right-click on the desktop and choose 'Desktop Preferences' to
 --- /task ---
 
 --- task ---
---- task ---
 
 The selected Picture is 'temple.jpg'. Click to change this and you will see a choice of images. Choose 'aurora.jpg' and click 'Open' to change the wallpaper. 
 
-![screenshot](images/custom-dialog.png)
+![screenshot](images/custom-aurora-dialog.png)
 
 The new wallpaper will be shown immediately. 
 
