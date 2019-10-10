@@ -1,25 +1,25 @@
 ## Change the wallpaper
 
-The background wallpaper for the Raspbian desktop is a temple with a beautiful sunset in the background. You don't have to keep this wallpaper, you can change it to one you prefer. You can also change the colour of the text for icons on the desktop so that it contrasts with the wallpaper and is easy to read.
+The background wallpaper for the Raspbian desktop is a temple with a beautiful sunset in the background. You don't have to keep this wallpaper; you can change it to one that you prefer. You can also change the colour of the text for icons on the desktop so that it contrasts with the wallpaper and is easy to read.
 
 ![screenshot](images/custom-default.png)
 
 --- task ---
 
-Click on the Raspberry in the top left of your screen to open the Main Menu and then choose `Preferences` and `Appearance Settings`. 
+Click on the raspberry in the top left-hand corner of your screen to open the main menu, and then choose **Preferences**, then **Appearance Settings**. 
 
-Tip: You can also use the Windows key on your keyboard to open the Main Menu.
+**Tip:** You can also use the <kbd>Windows</kbd> key on your keyboard to open the main menu.
 
 ![screenshot](images/custom-menu.png)
 
-This will open the Appearance Settings window.
+This will open the **Appearance Settings** window.
 
-Tip: You can also right-click on the desktop and choose 'Desktop Preferences' to open the Appearance Settings window.
+**Tip:** You can also right-click on the desktop and choose **Desktop Preferences** to open the **Appearance Settings** window.
 --- /task ---
 
 --- task ---
 
-The selected Picture is 'temple.jpg'. Click to change this and you will see a choice of images. Choose 'aurora.jpg' and click 'Open' to change the wallpaper. 
+The **Picture** that is selected is `temple.jpg`. Click to change this and you will see a choice of images. Select `aurora.jpg`, then click on **Open** to change the wallpaper. 
 
 ![screenshot](images/custom-aurora-dialog.png)
 
@@ -30,7 +30,7 @@ The new wallpaper will be shown immediately.
 
 --- task ---
 
-Now change the wallpaper to 'raspberry-pi-logo.png'. You'll see that the image is used to fill the whole screen which doesn't work very well.
+Now change the wallpaper to `raspberry-pi-logo.png`. You'll see that the image fills the whole screen, which doesn't work very well.
 
 ![screenshot](images/custom-logo-dialog.png)
 
@@ -40,7 +40,7 @@ Now change the wallpaper to 'raspberry-pi-logo.png'. You'll see that the image i
 
 --- task ---
 
-Change the 'Layout' to 'Tile image' to fill the screen with lots of copies of the logo.
+Change the **Layout** to `Tile image` to fill the screen with lots of copies of the image.
 
 ![screenshot](images/custom-tile-dialog.png)
 
@@ -50,7 +50,7 @@ Change the 'Layout' to 'Tile image' to fill the screen with lots of copies of th
 
 --- task ---
 
-Now change the 'Layout' to 'Centre image on screen' to get just one Raspberry Pi logo in the centre. 
+Now change the **Layout** to `Centre image on screen` to get just one Raspberry Pi logo in the centre. 
 
 ![screenshot](images/custom-centre-dialog.png)
 
@@ -58,11 +58,11 @@ Now change the 'Layout' to 'Centre image on screen' to get just one Raspberry Pi
 
 --- /task ---
 
-With the default background color and text settings it's hard to read the icon labels on the desktop. This is because there's not enough contrast (difference) between the two colours.
+With the default background colour and text settings, it is hard to read the icon labels on the desktop. This is because there is not enough contrast (difference) between the two colours.
 
 ![screenshot](images/custom-contrast.png)
 
-You can change these settings to get background and text colours with better contrast so that the label text is easier to read. 
+You can change these settings to get background and text colours with better contrast, so that the labels are easier to read. 
 
 --- task ---
 
