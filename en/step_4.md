@@ -1,6 +1,6 @@
 ## Change the taskbar and highlight colour
 
-The Taskbar allows you to access the Main Menu (Raspberry), open commonly used applications and select currently open applications, and access useful settings and information. 
+The **taskbar** allows you to access the main menu (raspberry icon), open commonly used applications and select currently open applications, and access useful settings and information. 
 
 The default position of the taskbar is at the top of the desktop. 
 
@@ -8,19 +8,19 @@ The default position of the taskbar is at the top of the desktop.
 
 --- task ---
 
-Open the `Appearance Settings` dialog from the `Preferences` section of the Main Menu. Click on the `Taskbar` tab.
+Go to the main menu, then click on **Preferences**. Open the **Appearance Settings** dialog box. Click on the **Taskbar** tab.
 
 ![screenshot](images/custom-taskbar-top-dialog.png)
 
-This will open the settings for the Taskbar.
+This will open the settings for the taskbar.
 
 --- /task ---
 
-By default, the Taskbar is positioned at the top of the screen. If you have used another operating system then you may be used to having the Taskbar at the bottom of the screen.
+By default, the taskbar is positioned at the top of the screen. If you have used another operating system before, then you may be used to having the taskbar at the bottom of the screen.
 
 --- task ---
 
-Change the position to Bottom to move the Taskbar.
+Change the position to **Bottom** to move the taskbar to the bottom of the screen.
 
 ![screenshot](images/custom-taskbar-bottom-dialog.png)
 
@@ -28,20 +28,20 @@ The taskbar will move immediately.
 
 ![screenshot](images/custom-taskbar-bottom.png)
 
-You can either leave the Taskbar at the bottom or move it back to the top depending on your preference. 
+Depending on your preference, you can either leave the taskbar at the bottom, or move it back to the top. 
 
-If you've never tried using the Taskbar at the top of the screen then give it a go and see if you prefer it.
+If you've never tried using the taskbar at the top of the screen, then try it and see if you prefer it.
 
 --- /task ---
 
-You can also change the background and text colours for the Taskbar. 
+You can also change the background and text colours for the taskbar. 
 
-The hex colour code for white is '#FFFFFF' which means the maximum amount of red, green and blue. Click OK and the Taskbar will update to use the new colour scheme. 
+The hex colour code for white is **#FFFFFF**, which means the maximum amount of red, green, and blue. Click on **OK** and the taskbar will update to use the new colour scheme. 
 
 
 --- task ---
 
-Open the Taskbar tab of Appearance settings and change the colour to 'C51A4A' (raspberry red).
+In **Appearance Settings**, open the **Taskbar** tab and change the colour to `C51A4A` (raspberry red).
 
 ![screenshot](images/custom-taskbar-raspberry.png)
 
@@ -49,11 +49,11 @@ Open the Taskbar tab of Appearance settings and change the colour to 'C51A4A' (r
 
 --- task ---
 
-Change the Text Colour to '#FFFFFF' (white).
+Change the **Text Colour** to `#FFFFFF` (white).
 
 ![screenshot](images/custom-taskbar-text.png)
 
-Notice that the text in the task bar is now white. 
+Notice that the text in the taskbar is now white. 
 
 --- /task ---
 
