@@ -10,9 +10,9 @@ Change the other settings to get the result that you want.
 
 ![screenshot](images/custom-calico-cat.png)
 
-**Tip:** If you want to browse the included desktop images, you can find them in the **File System** under `/usr/share/rpd-wallpaper`.
+**Tip:** If you want to browse the desktop images that are included in Raspbian, you can find them in the **File System** under `/usr/share/rpd-wallpaper`.
 
-You could even draw your own picture. If you have full Raspbian installation then you could use LibreOffice Draw or Scratch.  
+You could even draw your own picture. For example, you could use LibreOffice Draw or Scratch.  
 
 ![screenshot](images/custom-pinta.png)
 
