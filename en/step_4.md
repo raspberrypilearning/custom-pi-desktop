@@ -1,6 +1,6 @@
 ## Change the taskbar and highlight colour
 
-The **taskbar** allows you to access the main menu (raspberry icon), open commonly used applications and select currently open applications, and access useful settings and information. 
+The **taskbar** allows you to access the main menu (Raspberry Pi icon), open commonly used applications and select currently open applications, and access useful settings and information. 
 
 The default position of the taskbar is at the top of the desktop. 
 
@@ -41,7 +41,7 @@ The hex colour code for white is **#FFFFFF**, which means the maximum amount of 
 
 --- task ---
 
-In **Appearance Settings**, open the **Taskbar** tab and change the colour to `C51A4A` (raspberry red).
+In **Appearance Settings**, open the **Taskbar** tab and change the colour to `#C51A4A` (raspberry red).
 
 ![screenshot](images/custom-taskbar-raspberry.png)
 
