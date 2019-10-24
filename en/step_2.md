@@ -6,7 +6,7 @@ The background wallpaper for the Raspbian desktop is a temple with a beautiful s
 
 --- task ---
 
-Click on the raspberry in the top left-hand corner of your screen to open the main menu, and then choose **Preferences**, then **Appearance Settings**. 
+Click on the Raspberry Pi icon in the top left-hand corner of your screen to open the main menu, and then choose **Preferences**, then **Appearance Settings**. 
 
 **Tip:** You can also use the <kbd>Windows</kbd> or <kbd>Raspberry Pi</kbd> key on your keyboard to open the main menu, if your keyboard has one.
 
@@ -84,7 +84,7 @@ You can also use one of the following methods to specify colours:
 
 - **Hue/Saturation/Value**: The **Hue** gives the **colour** (from 0 to 359), the **Saturation** gives the **amount** of the colour, and the **Value** gives the **brightness** of the colour. Scratch 3 uses a similar approach to specify colours. 
 - **Red/Green/Blue (RGB)**: RGB values specify the amount of **red, green, and blue** (from 0 to 255) that are **mixed** to produce the colour. Colours for display on a computer screen are often specified using RGB values because each pixel (dot on the screen) combines these three colours to produce the colour that you see. 
-- **Hex**: Hex colour codes start with a **#** (hash) symbol and then have **three pairs of numbers** to represent the amount of **red, green, and blue**. The characters use the digits **0-9** then the letters **A–F** (to represent 10-15). This is called **hexadecimal** (**hex** for short.) This means that in two characters, you can represent 16 x 16 = 256 different values for each colour. Hex colours are widely used on the internet.
+- **Hex**: Hex colour codes start with a **#** (hash) symbol and then have **three pairs of numbers** to represent the amount of **red, green, and blue**. The characters use the digits **0-9** then the letters **A–F** (to represent 10-15). This is called **hexadecimal** (**hex** for short). This means that in two characters, you can represent 16 x 16 = 256 different values for each colour. Hex colours are widely used on the internet.
 
 Using the colour ring and triangle to enter colours is easier for humans, but it's easier for computers to store colours as numbers. Working with numbers also makes it easy for us to use exactly the same colour in different places. 
 
@@ -96,7 +96,7 @@ Try choosing different colours with the colour picker and see how the different 
 --- task ---
 You may also want to change the **Text Colour** so that the text is clearer on the background that you have chosen.
 
-The hex colour code for the raspberry colour in the Raspberry Pi logo is **#C51A4A** (a lot of red mixed with a small amount of green and some blue).
+The hex colour code for the colour of the raspberry in the Raspberry Pi logo is **#C51A4A** (a lot of red mixed with a small amount of green and some blue).
 
 ![screenshot](images/custom-text-dialog.png)
 
