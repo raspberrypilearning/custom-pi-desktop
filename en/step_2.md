@@ -1,8 +1,8 @@
 ## Change the wallpaper
 
-The background wallpaper for the Raspbian desktop is a temple with a beautiful sunset in the background. You don't have to keep this wallpaper; you can change it to one that you prefer. You can also change the colour of the text for icons on the desktop so that it contrasts with the wallpaper and is easy to read.
+The background wallpaper for the Raspberry Pi OS desktop is a temple with a beautiful sunset in the background. You don't have to keep this wallpaper; you can change it to one that you prefer. You can also change the colour of the text for icons on the desktop so that it contrasts with the wallpaper and is easy to read.
 
-![screenshot](images/custom-default.png)
+![screenshot](images/custom-default2.png)
 
 --- task ---
 
@@ -10,7 +10,7 @@ Click on the Raspberry Pi icon in the top left-hand corner of your screen to ope
 
 **Tip:** You can also use the <kbd>Windows</kbd> or <kbd>Raspberry Pi</kbd> key on your keyboard to open the main menu, if your keyboard has one.
 
-![screenshot](images/custom-menu.png)
+![screenshot](images/custom-menu2.png)
 
 This will open the **Appearance Settings** window.
 
@@ -25,7 +25,7 @@ The **Picture** that is selected is `temple.jpg`. To change this, click on the f
 
 The new wallpaper will be shown immediately. 
 
-![screenshot](images/custom-aurora.png)
+![screenshot](images/custom-aurora2.png)
 --- /task ---
 
 --- task ---
@@ -34,7 +34,7 @@ Now change the wallpaper to `raspberry-pi-logo.png`. You'll see that the image f
 
 ![screenshot](images/custom-logo-dialog.png)
 
-![screenshot](images/custom-logo.png)
+![screenshot](images/custom-logo2.png)
 
 --- /task ---
 
@@ -44,7 +44,7 @@ Change the **Layout** to `Tile image` to fill the screen with lots of copies of 
 
 ![screenshot](images/custom-tile-dialog.png)
 
-![screenshot](images/custom-tile.png)
+![screenshot](images/custom-tile2.png)
 
 --- /task ---
 
@@ -54,7 +54,7 @@ Now change the **Layout** to `Centre image on screen` to get just one Raspberry 
 
 ![screenshot](images/custom-centre-dialog.png)
 
-![screenshot](images/custom-centre.png)
+![screenshot](images/custom-centre2.png)
 
 --- /task ---
 
@@ -74,7 +74,7 @@ First, select a colour ('hue') from the outer ring. Then choose the exact shade 
 
 ![screenshot](images/custom-background-colour-dialog.png)
 
-![screenshot](images/custom-background-colour.png)
+![screenshot](images/custom-background-colour2.png)
 
 --- /task ---
 
@@ -98,9 +98,9 @@ You may also want to change the **Text Colour** so that the text is clearer on t
 
 The hex colour code for the colour of the raspberry in the Raspberry Pi logo is **#C51A4A** (a lot of red mixed with a small amount of green and some blue).
 
-![screenshot](images/custom-text-dialog.png)
+![screenshot](images/custom-text-dialog2.png)
 
-![screenshot](images/custom-text-colour.png)
+![screenshot](images/custom-text-colour2.png)
 
 --- /task ---
 

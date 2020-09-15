@@ -10,7 +10,7 @@ Change the other settings to get the result that you want.
 
 ![screenshot](images/custom-calico-cat.png)
 
-**Tip:** If you want to browse the desktop images that are included in Raspbian, you can find them in the **File System** under `/usr/share/rpd-wallpaper`.
+**Tip:** If you want to browse the desktop images that are included in Raspberry Pi OS, you can find them in the **File System** under `/usr/share/rpd-wallpaper`.
 
 You could even draw your own picture. For example, you could use LibreOffice Draw or Scratch.  
 
