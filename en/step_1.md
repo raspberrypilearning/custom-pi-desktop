@@ -22,10 +22,9 @@ title: What you will need
 
 + Raspberry Pi OS
 
+--- /collapse ---
 
----
-title: What you will need
----
+--- collapse ---
 ---
 title: What you will learn
 ---
