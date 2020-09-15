@@ -8,7 +8,7 @@ You will change how your Raspberry Pi desktop looks and save the settings.
 
 Here's an example:
 
-![Complete project](images/showcase-static.png)
+![Complete project](images/showcase-static2.png)
 
 --- collapse ---
 ---

@@ -10,7 +10,7 @@ The default position of the taskbar is at the top of the desktop.
 
 Go to the main menu, then click on **Preferences**. Open the **Appearance Settings** dialog box. Click on the **Taskbar** tab.
 
-![screenshot](images/custom-taskbar-top-dialog.png)
+![screenshot](images/custom-taskbar-top-dialog2.png)
 
 This will open the settings for the taskbar.
 
@@ -22,11 +22,11 @@ By default, the taskbar is positioned at the top of the screen. If you have used
 
 Change the position to **Bottom** to move the taskbar to the bottom of the screen.
 
-![screenshot](images/custom-taskbar-bottom-dialog.png)
+![screenshot](images/custom-taskbar-bottom-dialog2.png)
 
 The taskbar will move immediately. 
 
-![screenshot](images/custom-taskbar-bottom.png)
+![screenshot](images/custom-taskbar-bottom2.png)
 
 Depending on your preference, you can either leave the taskbar at the bottom, or move it back to the top. 
 
@@ -43,7 +43,7 @@ The hex colour code for white is **#FFFFFF**, which means the maximum amount of 
 
 In **Appearance Settings**, open the **Taskbar** tab and change the colour to `#C51A4A` (raspberry red).
 
-![screenshot](images/custom-taskbar-raspberry.png)
+![screenshot](images/custom-taskbar-raspberry2.png)
 
 --- /task ---
 
@@ -51,7 +51,7 @@ In **Appearance Settings**, open the **Taskbar** tab and change the colour to `#
 
 Change the **Text Colour** to `#FFFFFF` (white).
 
-![screenshot](images/custom-taskbar-text.png)
+![screenshot](images/custom-taskbar-text2.png)
 
 Notice that the text in the taskbar is now white. 
 
