@@ -1,6 +1,6 @@
 ## What next?
 
-Well done! You have just completed the third project in the Raspberry Pi for beginners pathway.
+Well done! You have just completed the third project in the [Raspberry Pi for beginners pathway](https://projects.raspberrypi.org/en/pathways/raspberry-pi-beginners){:target="_blank"}.
 
 Next, try the fourth project in the pathway, [Pac-Man treasure hunt on the terminal](https://projects.raspberrypi.org/en/projects/pacman-terminal){:target="_blank"}. 
 
