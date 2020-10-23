@@ -30,7 +30,7 @@ The new wallpaper will be shown immediately.
 
 --- task ---
 
-Now change the wallpaper to `raspberry-pi-logo.png`. You'll see that the image fills the whole screen, which doesn't work very well.
+Now, change the wallpaper to `raspberry-pi-logo.png`. You'll see that the image fills the whole screen, which doesn't work very well.
 
 ![screenshot](images/custom-logo-dialog.png)
 
@@ -50,7 +50,7 @@ Change the **Layout** to **Tile image** to fill the screen with lots of copies o
 
 --- task ---
 
-Now change the **Layout** to **Centre image on screen** to get just one Raspberry Pi logo in the centre. 
+Now, change the **Layout** to **Centre image on screen** to get just one Raspberry Pi logo in the centre. 
 
 ![screenshot](images/custom-centre-dialog.png)
 
@@ -70,7 +70,7 @@ When using the tiled or centred layouts, it's useful to be able to change the ba
 
 Pick a colour that you think works well with the Raspberry Pi logo. 
 
-First, select a colour ('hue') from the outer ring. Then choose the exact shade using the inner triangle.
+First, select a colour ('hue') from the outer ring. Then, choose the exact shade using the inner triangle.
 
 ![screenshot](images/custom-background-colour-dialog.png)
 
@@ -86,7 +86,7 @@ You can also use one of the following methods to specify colours:
 - **Red/Green/Blue (RGB):** RGB values specify the amount of **red, green, and blue** (from 0 to 255) that are **mixed** to produce the colour. Colours for display on a computer screen are often specified using RGB values because each pixel (dot on the screen) combines these three colours to produce the colour that you see. 
 - **Hex:** Hex colour codes start with a **#** (hash) symbol and then have **three pairs of numbers** to represent the amount of **red, green, and blue**. The characters use the digits **0-9** then the letters **A–F** (to represent 10-15). This is called **hexadecimal** (**hex** for short). This means that in two characters, you can represent 16 × 16 = 256 different values for each colour. Hex colours are widely used on the internet.
 
-Using the colour ring and triangle to enter colours is easier for humans, but it's easier for computers to store colours as numbers. Working with numbers also makes it easy for us to use exactly the same colour in different places. 
+Using the colour ring and triangle to enter colours is easier for humans, but it is easier for computers to store colours as numbers. Working with numbers also makes it easy for us to use exactly the same colour in different places. 
 
 --- task ---
 Try choosing different colours with the colour picker and see how the different colour representations change. 
