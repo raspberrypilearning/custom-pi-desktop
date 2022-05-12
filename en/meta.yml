@@ -12,8 +12,8 @@ steps:
   - title: Change the wallpaper
   - title: "Challenge: choose your favourite wallpaper"
     challenge: true
-    completion: engaged
   - title: Change the taskbar and highlight colour
+    completion: engaged
     completion: internal
   - title: "Challenge: choose your favourite taskbar and system settings"
     challenge: true
