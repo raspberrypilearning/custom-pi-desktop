@@ -2,15 +2,17 @@ title: Customise your Raspberry Pi desktop
 hero_image: images/banner.png
 description: Change the background image, colour scheme, and settings for your Raspberry Pi desktop to make it look and work the way that you want
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: "2019-04-25"
 steps:
   - title: Introduction
   - title: Change the wallpaper
   - title: "Challenge: choose your favourite wallpaper"
     challenge: true
+    completion: engaged
   - title: Change the taskbar and highlight colour
+    completion: internal
   - title: "Challenge: choose your favourite taskbar and system settings"
     challenge: true
   - title: What next?
