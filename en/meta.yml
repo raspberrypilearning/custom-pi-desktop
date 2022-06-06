@@ -6,15 +6,16 @@ description: Change the background image, colour scheme, and settings for your R
 version: 4
 listed: true
 copyedit: true
-last_tested: "2019-04-25"
+last_tested: '2019-04-25'
 steps:
-  - title: Introduction
-  - title: Change the wallpaper
-  - title: "Challenge: choose your favourite wallpaper"
-    challenge: true
-  - title: Change the taskbar and highlight colour
-    completion: engaged
-    completion: internal
-  - title: "Challenge: choose your favourite taskbar and system settings"
-    challenge: true
-  - title: What next?
+- title: Introduction
+- title: Change the wallpaper
+  completion:
+  - engaged
+  - internal
+- title: 'Challenge: choose your favourite wallpaper'
+  challenge: true
+- title: Change the taskbar and highlight colour
+- title: 'Challenge: choose your favourite taskbar and system settings'
+  challenge: true
+- title: What next?
