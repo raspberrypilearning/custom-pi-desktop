@@ -11,6 +11,7 @@ Next, try the fourth project in the pathway, [Pac-Man treasure hunt on the termi
 + [Customise your Raspberry Pi desktop](https://projects.raspberrypi.org/en/projects/custom-pi-desktop/){:target="_blank"}
 + [**Pac-Man treasure hunt on the terminal**](https://projects.raspberrypi.org/en/projects/pacman-terminal){:target="_blank"}
 + [Create a new command on Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-command/){:target="_blank"}
++ [Automate tasks on your Raspberry Pi](https://projects.raspberrypi.org/en/projects/rpi-automate-tasks/){:target="_blank"}. 
 
 ### Other Raspberry Pi projects on the Raspberry Pi website
 
